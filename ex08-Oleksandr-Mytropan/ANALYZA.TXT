@@ -1,0 +1,35 @@
+1) SOUBOROVÝ REPOZITÁŘ
+
+Souborový repozitář je realizován třídou FileEntityRepository. 
+Tato třída ukládá každou entitu jako samostatný soubor do složky.
+
+Pro čtení a zápis objektů do souborů se používají následující třídy:
+
+FileEntityRepository – hlavní třída pro práci se soubory
+EntitySerializer – rozhraní definující serializaci a deserializaci entit
+TextSerializer – abstraktní třída usnadňující práci se serializací do textové podoby
+
+Dále se využívají standardní Java IO třídy:
+File – reprezentace souboru
+FileWriter/FileReader – zápis a čtení znakových dat
+BufferedWriter/BufferedReader – efektivní práce se soubory
+
+Serializace slouží k převodu objektu na textovou podobu a zpět.
+
+
+2) INDEXOVANÝ REPOZITÁŘ
+
+Indexovaný repozitář je realizován třídou IndexedFileEntityRepository, 
+která rozšiřuje FileEntityRepository o podporu indexů.
+
+Pro práci s indexy se používají následující třídy:
+
+IndexedFileEntityRepository – rozšířený repozitář s indexy
+IndexManager – správa všech indexů
+Index – základní rozhraní pro indexy
+UniqueIndex – unikátní index (jedna hodnota = jeden objekt)
+NonUniqueIndex – neunikátní index (jedna hodnota = více objektů)
+MultiColumnIndex – index nad více atributy
+
+Indexy slouží k rychlejšímu vyhledávání dat podle konkrétních atributů.
+Místo procházení všech souborů umožňují přímý přístup k požadovaným entitám.

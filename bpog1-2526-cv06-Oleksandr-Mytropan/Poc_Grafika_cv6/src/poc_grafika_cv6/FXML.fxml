@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.PieChart?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="627.0" prefWidth="872.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="poc_grafika_cv6.FXMLController">
+   <children>
+      <Button layoutX="32.0" layoutY="554.0" maxWidth="202.0" onAction="#addStudent" prefHeight="39.0" prefWidth="152.0" text="Nový studnet">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Button alignment="TOP_CENTER" contentDisplay="RIGHT" layoutX="209.0" layoutY="554.0" maxWidth="235.0" onAction="#removeStudent" prefHeight="39.0" prefWidth="235.0" text="Odebrat studenta" textAlignment="RIGHT" wrapText="true">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Label layoutX="418.0" layoutY="27.0" text="Graf odpracovaných hodin">
+         <font>
+            <Font name="System Bold" size="31.0" />
+         </font>
+      </Label>
+      <PieChart fx:id="pieChart" layoutX="436.0" layoutY="134.0" prefHeight="360.0" prefWidth="388.0" />
+      <TableView fx:id="table" layoutX="32.0" layoutY="34.0" prefHeight="497.0" prefWidth="353.0">
+        <columns>
+          <TableColumn fx:id="colId" prefWidth="75.0" text="ID" />
+          <TableColumn fx:id="colJmeno" prefWidth="75.0" text="Jméno" />
+            <TableColumn fx:id="colPrijmeni" prefWidth="75.0" text="Příjmení" />
+            <TableColumn fx:id="colRocnik" prefWidth="75.0" text="Ročník" />
+        </columns>
+      </TableView>
+      <Button alignment="TOP_CENTER" contentDisplay="RIGHT" layoutX="495.0" layoutY="554.0" maxWidth="235.0" onAction="#pieChanged" prefHeight="39.0" prefWidth="235.0" text="Akrualizovat Graf" textAlignment="RIGHT" wrapText="true">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

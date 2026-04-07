@@ -1,0 +1,398 @@
+[2026-04-03T19:14:29.317071900] Information Reading file: 1.txt
+[2026-04-03T19:14:29.317071900] Information Reading file: 2.txt
+[2026-04-03T19:14:29.318079600] Information Reading file: 3.txt
+[2026-04-03T19:14:29.318079600] Information Reading file: 5.txt
+[2026-04-03T19:14:29.318079600] Information Finding all and return List
+[2026-04-03T19:14:29.319074100] Information Finding ID: 1
+[2026-04-03T19:14:29.319074100] Information Reading file: 1.txt
+[2026-04-03T19:14:29.319074100] Information Deleting entity with id: 1
+[2026-04-03T19:14:29.320080] Information Finding ID: 2
+[2026-04-03T19:14:29.320080] Information Reading file: 2.txt
+[2026-04-03T19:14:29.320080] Information Deleting entity with id: 2
+[2026-04-03T19:14:29.321399200] Information Finding ID: 3
+[2026-04-03T19:14:29.321399200] Information Reading file: 3.txt
+[2026-04-03T19:14:29.322491500] Information Deleting entity with id: 3
+[2026-04-03T19:14:29.322491500] Information Finding ID: 5
+[2026-04-03T19:14:29.322491500] Information Reading file: 5.txt
+[2026-04-03T19:14:29.323490200] Information Deleting entity with id: 5
+[2026-04-03T19:14:29.323490200] Information Found by indexed value internal: unique_username
+[2026-04-03T19:14:29.324570900] Information Saving entity: 1
+[2026-04-03T19:14:29.325570700] Information Found by indexed value internal: unique_username
+[2026-04-03T19:14:29.325570700] Information Saving entity: 2
+[2026-04-03T19:14:29.326571400] Information Found by indexed value internal: unique_username
+[2026-04-03T19:14:29.326571400] Information Saving entity: 3
+[2026-04-03T19:14:29.327571800] Information Found by indexed value internal: unique_username
+[2026-04-03T19:14:29.328578300] Information Saving entity: 4
+[2026-04-03T19:14:29.328578300] Information Found by indexed value internal: unique_username
+[2026-04-03T19:14:29.329571700] Information Saving entity: 5
+[2026-04-03T19:14:29.330572400] Information Finding ID: 2
+[2026-04-03T19:14:29.330572400] Information Reading file: 2.txt
+[2026-04-03T19:14:29.330572400] Information Finding ID: 5
+[2026-04-03T19:14:29.330572400] Information Reading file: 5.txt
+[2026-04-03T19:14:29.336958600] Information Entities found by index: User{id=2, username='jane_smith', firstName='Jane', lastName='Smith', country='Canada', age=28} ; User{id=5, username='charlie_davis', firstName='Charlie', lastName='Davis', country='Canada', age=28}
+[2026-04-03T19:14:29.337961900] Information Finding ID: 4
+[2026-04-03T19:14:29.337961900] Information Reading file: 4.txt
+[2026-04-03T19:14:29.337961900] Information Deleting entity with id: 4
+[2026-04-03T19:14:29.338958600] Information Finding ID: 5
+[2026-04-03T19:14:29.338958600] Information Reading file: 5.txt
+[2026-04-03T19:14:29.338958600] Information Found by indexed value internal: unique_username
+[2026-04-03T19:14:29.339959200] Information Updating entity: 5
+[2026-04-03T19:14:29.340961700] Information Finding ID: 2
+[2026-04-03T19:14:29.340961700] Information Reading file: 2.txt
+[2026-04-03T19:14:29.340961700] Information Entities found by index: User{id=2, username='jane_smith', firstName='Jane', lastName='Smith', country='Canada', age=28}
+[2026-04-03T19:14:29.340961700] Information Finding ID: 5
+[2026-04-03T19:14:29.340961700] Information Reading file: 5.txt
+[2026-04-03T19:14:29.340961700] Information Entities found by index: User{id=5, username='charlie_davis', firstName='Charlie', lastName='Davis', country='Czech Republic', age=28}
+[2026-04-03T19:14:29.341959400] Information Reading file: 1.txt
+[2026-04-03T19:14:29.341959400] Information Reading file: 2.txt
+[2026-04-03T19:14:29.341959400] Information Reading file: 3.txt
+[2026-04-03T19:14:29.341959400] Information Reading file: 5.txt
+[2026-04-03T19:14:29.341959400] Information Finding all and return List
+[2026-04-03T19:48:00.953474300] Information Reading file: 1.txt
+[2026-04-03T19:48:00.954800100] Information Finding all and return List
+[2026-04-03T19:48:00.954800100] Information Reading file: 2.txt
+[2026-04-03T19:48:00.954800100] Information Finding all and return List
+[2026-04-03T19:48:00.954800100] Information Reading file: 3.txt
+[2026-04-03T19:48:00.954800100] Information Finding all and return List
+[2026-04-03T19:48:00.954800100] Information Reading file: 5.txt
+[2026-04-03T19:48:00.955800600] Information Finding all and return List
+[2026-04-03T19:48:00.955800600] Error Finding ends with error, empty list is returned
+[2026-04-03T19:48:00.955800600] Information Finding ID: 1
+[2026-04-03T19:48:00.955800600] Information Reading file: 1.txt
+[2026-04-03T19:48:00.956799700] Information Deleting entity with id: 1
+[2026-04-03T19:48:00.957810100] Information Finding ID: 2
+[2026-04-03T19:48:00.957810100] Information Reading file: 2.txt
+[2026-04-03T19:48:00.957810100] Information Deleting entity with id: 2
+[2026-04-03T19:48:00.958799700] Information Finding ID: 3
+[2026-04-03T19:48:00.958799700] Information Reading file: 3.txt
+[2026-04-03T19:48:00.958799700] Information Deleting entity with id: 3
+[2026-04-03T19:48:00.959799600] Information Finding ID: 5
+[2026-04-03T19:48:00.959799600] Information Reading file: 5.txt
+[2026-04-03T19:48:00.959799600] Information Deleting entity with id: 5
+[2026-04-03T19:48:00.960801100] Information Found by indexed value internal: unique_username
+[2026-04-03T19:48:00.961800200] Information Saving entity: 1
+[2026-04-03T19:48:00.961800200] Information Found by indexed value internal: unique_username
+[2026-04-03T19:48:00.961800200] Information Saving entity: 2
+[2026-04-03T19:48:00.963304200] Information Found by indexed value internal: unique_username
+[2026-04-03T19:48:00.963304200] Information Saving entity: 3
+[2026-04-03T19:48:00.964308600] Information Found by indexed value internal: unique_username
+[2026-04-03T19:48:00.964308600] Information Saving entity: 4
+[2026-04-03T19:48:00.965320100] Information Found by indexed value internal: unique_username
+[2026-04-03T19:48:00.965320100] Information Saving entity: 5
+[2026-04-03T19:48:00.966308300] Information Finding ID: 2
+[2026-04-03T19:48:00.967308100] Information Reading file: 2.txt
+[2026-04-03T19:48:00.967308100] Information Finding ID: 5
+[2026-04-03T19:48:00.967308100] Information Reading file: 5.txt
+[2026-04-03T19:48:00.971308300] Information Entities found by index: User{id=2, username='jane_smith', firstName='Jane', lastName='Smith', country='Canada', age=28} ; User{id=5, username='charlie_davis', firstName='Charlie', lastName='Davis', country='Canada', age=28}
+[2026-04-03T19:48:00.972308100] Information Finding ID: 4
+[2026-04-03T19:48:00.972308100] Information Reading file: 4.txt
+[2026-04-03T19:48:00.972308100] Information Deleting entity with id: 4
+[2026-04-03T19:48:00.973309300] Information Finding ID: 5
+[2026-04-03T19:48:00.974348200] Information Reading file: 5.txt
+[2026-04-03T19:48:00.974348200] Information Found by indexed value internal: unique_username
+[2026-04-03T19:48:00.974348200] Information Updating entity: 5
+[2026-04-03T19:48:00.975349900] Information Finding ID: 2
+[2026-04-03T19:48:00.975349900] Information Reading file: 2.txt
+[2026-04-03T19:48:00.975349900] Information Entities found by index: User{id=2, username='jane_smith', firstName='Jane', lastName='Smith', country='Canada', age=28}
+[2026-04-03T19:48:00.975349900] Information Finding ID: 5
+[2026-04-03T19:48:00.976349600] Information Reading file: 5.txt
+[2026-04-03T19:48:00.976349600] Information Entities found by index: User{id=5, username='charlie_davis', firstName='Charlie', lastName='Davis', country='Czech Republic', age=28}
+[2026-04-03T19:48:00.976349600] Information Reading file: 1.txt
+[2026-04-03T19:48:00.976349600] Information Finding all and return List
+[2026-04-03T19:48:00.976349600] Information Reading file: 2.txt
+[2026-04-03T19:48:00.977348800] Information Finding all and return List
+[2026-04-03T19:48:00.977348800] Information Reading file: 3.txt
+[2026-04-03T19:48:00.977348800] Information Finding all and return List
+[2026-04-03T19:48:00.977348800] Information Reading file: 5.txt
+[2026-04-03T19:48:00.977348800] Information Finding all and return List
+[2026-04-03T19:48:00.977348800] Error Finding ends with error, empty list is returned
+[2026-04-03T23:39:43.387974800] Information Reading file: 1.txt
+[2026-04-03T23:39:43.388973900] Information Finding all and return List
+[2026-04-03T23:39:43.388973900] Information Reading file: 2.txt
+[2026-04-03T23:39:43.388973900] Information Finding all and return List
+[2026-04-03T23:39:43.389975400] Information Reading file: 3.txt
+[2026-04-03T23:39:43.389975400] Information Finding all and return List
+[2026-04-03T23:39:43.389975400] Information Reading file: 5.txt
+[2026-04-03T23:39:43.389975400] Information Finding all and return List
+[2026-04-03T23:39:43.389975400] Error Finding ends with error, empty list is returned
+[2026-04-03T23:39:43.389975400] Information Finding ID: 1
+[2026-04-03T23:39:43.391479700] Information Reading file: 1.txt
+[2026-04-03T23:39:43.391479700] Information Deleting entity with id: 1
+[2026-04-03T23:39:43.392483900] Information Finding ID: 2
+[2026-04-03T23:39:43.392483900] Information Reading file: 2.txt
+[2026-04-03T23:39:43.392483900] Information Deleting entity with id: 2
+[2026-04-03T23:39:43.393484] Information Finding ID: 3
+[2026-04-03T23:39:43.393484] Information Reading file: 3.txt
+[2026-04-03T23:39:43.394484600] Information Deleting entity with id: 3
+[2026-04-03T23:39:43.394484600] Information Finding ID: 5
+[2026-04-03T23:39:43.394484600] Information Reading file: 5.txt
+[2026-04-03T23:39:43.395484900] Information Deleting entity with id: 5
+[2026-04-03T23:39:43.395484900] Information Found by indexed value internal: unique_username
+[2026-04-03T23:39:43.396483900] Information Saving entity: 1
+[2026-04-03T23:39:43.397484600] Information Found by indexed value internal: unique_username
+[2026-04-03T23:39:43.398483900] Information Saving entity: 2
+[2026-04-03T23:39:43.399483800] Information Found by indexed value internal: unique_username
+[2026-04-03T23:39:43.399483800] Information Saving entity: 3
+[2026-04-03T23:39:43.400484] Information Found by indexed value internal: unique_username
+[2026-04-03T23:39:43.400484] Information Saving entity: 4
+[2026-04-03T23:39:43.401483500] Information Found by indexed value internal: unique_username
+[2026-04-03T23:39:43.402554200] Information Saving entity: 5
+[2026-04-03T23:39:43.403553600] Information Finding ID: 2
+[2026-04-03T23:39:43.403553600] Information Reading file: 2.txt
+[2026-04-03T23:39:43.403553600] Information Finding ID: 5
+[2026-04-03T23:39:43.403553600] Information Reading file: 5.txt
+[2026-04-03T23:39:43.407554400] Information Entities found by index: User{id=2, username='jane_smith', firstName='Jane', lastName='Smith', country='Canada', age=28} ; User{id=5, username='charlie_davis', firstName='Charlie', lastName='Davis', country='Canada', age=28}
+[2026-04-03T23:39:43.408553700] Information Finding ID: 4
+[2026-04-03T23:39:43.408553700] Information Reading file: 4.txt
+[2026-04-03T23:39:43.408553700] Information Deleting entity with id: 4
+[2026-04-03T23:39:43.409554200] Information Finding ID: 5
+[2026-04-03T23:39:43.410554400] Information Reading file: 5.txt
+[2026-04-03T23:39:43.410554400] Information Found by indexed value internal: unique_username
+[2026-04-03T23:39:43.410554400] Information Updating entity: 5
+[2026-04-03T23:39:43.411553400] Information Finding ID: 2
+[2026-04-03T23:39:43.411553400] Information Reading file: 2.txt
+[2026-04-03T23:39:43.411553400] Information Entities found by index: User{id=2, username='jane_smith', firstName='Jane', lastName='Smith', country='Canada', age=28}
+[2026-04-03T23:39:43.411553400] Information Finding ID: 5
+[2026-04-03T23:39:43.412696700] Information Reading file: 5.txt
+[2026-04-03T23:39:43.412696700] Information Entities found by index: User{id=5, username='charlie_davis', firstName='Charlie', lastName='Davis', country='Czech Republic', age=28}
+[2026-04-03T23:39:43.412696700] Information Reading file: 1.txt
+[2026-04-03T23:39:43.412696700] Information Finding all and return List
+[2026-04-03T23:39:43.412696700] Information Reading file: 2.txt
+[2026-04-03T23:39:43.413697700] Information Finding all and return List
+[2026-04-03T23:39:43.413697700] Information Reading file: 3.txt
+[2026-04-03T23:39:43.413697700] Information Finding all and return List
+[2026-04-03T23:39:43.413697700] Information Reading file: 5.txt
+[2026-04-03T23:39:43.413697700] Information Finding all and return List
+[2026-04-03T23:39:43.413697700] Error Finding ends with error, empty list is returned
+[2026-04-03T23:41:09.296942800] Information Reading file: 1.txt
+[2026-04-03T23:41:09.296942800] Information Finding all and return List
+[2026-04-03T23:41:09.296942800] Information Reading file: 2.txt
+[2026-04-03T23:41:09.297943100] Information Finding all and return List
+[2026-04-03T23:41:09.297943100] Information Reading file: 3.txt
+[2026-04-03T23:41:09.297943100] Information Finding all and return List
+[2026-04-03T23:41:09.297943100] Information Reading file: 5.txt
+[2026-04-03T23:41:09.297943100] Information Finding all and return List
+[2026-04-03T23:41:09.297943100] Error Finding ends with error, empty list is returned
+[2026-04-03T23:41:09.298942500] Information Finding ID: 1
+[2026-04-03T23:41:09.298942500] Information Reading file: 1.txt
+[2026-04-03T23:41:09.298942500] Information Deleting entity with id: 1
+[2026-04-03T23:41:09.299942700] Information Finding ID: 2
+[2026-04-03T23:41:09.299942700] Information Reading file: 2.txt
+[2026-04-03T23:41:09.299942700] Information Deleting entity with id: 2
+[2026-04-03T23:41:09.301455900] Information Finding ID: 3
+[2026-04-03T23:41:09.301455900] Information Reading file: 3.txt
+[2026-04-03T23:41:09.301455900] Information Deleting entity with id: 3
+[2026-04-03T23:41:09.302463800] Information Finding ID: 5
+[2026-04-03T23:41:09.302463800] Information Reading file: 5.txt
+[2026-04-03T23:41:09.302463800] Information Deleting entity with id: 5
+[2026-04-03T23:41:09.303465600] Information Found by indexed value internal: unique_username
+[2026-04-03T23:41:09.304465100] Information Saving entity: 1
+[2026-04-03T23:41:09.305463900] Information Found by indexed value internal: unique_username
+[2026-04-03T23:41:09.305463900] Information Saving entity: 2
+[2026-04-03T23:41:09.306464800] Information Found by indexed value internal: unique_username
+[2026-04-03T23:41:09.306464800] Information Saving entity: 3
+[2026-04-03T23:41:09.307464100] Information Found by indexed value internal: unique_username
+[2026-04-03T23:41:09.307464100] Information Saving entity: 4
+[2026-04-03T23:41:09.308464200] Information Found by indexed value internal: unique_username
+[2026-04-03T23:41:09.309463800] Information Saving entity: 5
+[2026-04-03T23:41:09.309463800] Information Finding ID: 2
+[2026-04-03T23:41:09.310463700] Information Reading file: 2.txt
+[2026-04-03T23:41:09.310463700] Information Finding ID: 5
+[2026-04-03T23:41:09.310463700] Information Reading file: 5.txt
+[2026-04-03T23:41:09.314724600] Information Entities found by index: User{id=2, username='jane_smith', firstName='Jane', lastName='Smith', country='Canada', age=28} ; User{id=5, username='charlie_davis', firstName='Charlie', lastName='Davis', country='Canada', age=28}
+[2026-04-03T23:41:09.314724600] Information Finding ID: 4
+[2026-04-03T23:41:09.314724600] Information Reading file: 4.txt
+[2026-04-03T23:41:09.315744700] Information Deleting entity with id: 4
+[2026-04-03T23:41:09.316745300] Information Finding ID: 5
+[2026-04-03T23:41:09.316745300] Information Reading file: 5.txt
+[2026-04-03T23:41:09.316745300] Information Found by indexed value internal: unique_username
+[2026-04-03T23:41:09.317744200] Information Updating entity: 5
+[2026-04-03T23:41:09.317744200] Information Finding ID: 2
+[2026-04-03T23:41:09.318742900] Information Reading file: 2.txt
+[2026-04-03T23:41:09.318742900] Information Entities found by index: User{id=2, username='jane_smith', firstName='Jane', lastName='Smith', country='Canada', age=28}
+[2026-04-03T23:41:09.318742900] Information Finding ID: 5
+[2026-04-03T23:41:09.318742900] Information Reading file: 5.txt
+[2026-04-03T23:41:09.319744900] Information Entities found by index: User{id=5, username='charlie_davis', firstName='Charlie', lastName='Davis', country='Czech Republic', age=28}
+[2026-04-03T23:41:09.319744900] Information Reading file: 1.txt
+[2026-04-03T23:41:09.319744900] Information Finding all and return List
+[2026-04-03T23:41:09.319744900] Information Reading file: 2.txt
+[2026-04-03T23:41:09.319744900] Information Finding all and return List
+[2026-04-03T23:41:09.319744900] Information Reading file: 3.txt
+[2026-04-03T23:41:09.319744900] Information Finding all and return List
+[2026-04-03T23:41:09.321204600] Information Reading file: 5.txt
+[2026-04-03T23:41:09.321204600] Information Finding all and return List
+[2026-04-03T23:41:09.321204600] Error Finding ends with error, empty list is returned
+[2026-04-03T23:44:12.925584900] Information Reading file: 1.txt
+[2026-04-03T23:44:12.925584900] Information Finding all and return List
+[2026-04-03T23:44:12.925584900] Information Reading file: 2.txt
+[2026-04-03T23:44:12.925584900] Information Finding all and return List
+[2026-04-03T23:44:12.926572300] Information Reading file: 3.txt
+[2026-04-03T23:44:12.926572300] Information Finding all and return List
+[2026-04-03T23:44:12.926572300] Information Reading file: 5.txt
+[2026-04-03T23:44:12.926572300] Information Finding all and return List
+[2026-04-03T23:44:12.926572300] Error Finding ends with error, empty list is returned
+[2026-04-03T23:44:12.927572200] Information Finding ID: 1
+[2026-04-03T23:44:12.927572200] Information Reading file: 1.txt
+[2026-04-03T23:44:12.927572200] Information Deleting entity with id: 1
+[2026-04-03T23:44:12.928574200] Information Finding ID: 2
+[2026-04-03T23:44:12.928574200] Information Reading file: 2.txt
+[2026-04-03T23:44:12.929582800] Information Deleting entity with id: 2
+[2026-04-03T23:44:12.929582800] Information Finding ID: 3
+[2026-04-03T23:44:12.929582800] Information Reading file: 3.txt
+[2026-04-03T23:44:12.931131600] Information Deleting entity with id: 3
+[2026-04-03T23:44:12.931131600] Information Finding ID: 5
+[2026-04-03T23:44:12.931131600] Information Reading file: 5.txt
+[2026-04-03T23:44:12.932135300] Information Deleting entity with id: 5
+[2026-04-03T23:44:12.932135300] Information Found by indexed value internal: unique_username
+[2026-04-03T23:44:12.933135] Information Saving entity: 1
+[2026-04-03T23:44:12.933135] Information Found by indexed value internal: unique_username
+[2026-04-03T23:44:12.934364] Information Saving entity: 2
+[2026-04-03T23:44:12.935377300] Information Found by indexed value internal: unique_username
+[2026-04-03T23:44:12.935377300] Information Saving entity: 3
+[2026-04-03T23:44:12.936364300] Information Found by indexed value internal: unique_username
+[2026-04-03T23:44:12.936364300] Information Saving entity: 4
+[2026-04-03T23:44:12.937363800] Information Found by indexed value internal: unique_username
+[2026-04-03T23:44:12.938364700] Information Saving entity: 5
+[2026-04-03T23:44:12.939364200] Information Finding ID: 2
+[2026-04-03T23:44:12.939364200] Information Reading file: 2.txt
+[2026-04-03T23:44:12.939364200] Information Finding ID: 5
+[2026-04-03T23:44:12.939364200] Information Reading file: 5.txt
+[2026-04-03T23:44:12.943446300] Information Entities found by index: User{id=2, username='jane_smith', firstName='Jane', lastName='Smith', country='Canada', age=28} ; User{id=5, username='charlie_davis', firstName='Charlie', lastName='Davis', country='Canada', age=28}
+[2026-04-03T23:44:12.944446100] Information Finding ID: 4
+[2026-04-03T23:44:12.944446100] Information Reading file: 4.txt
+[2026-04-03T23:44:12.944446100] Information Deleting entity with id: 4
+[2026-04-03T23:44:12.945446500] Information Finding ID: 5
+[2026-04-03T23:44:12.945446500] Information Reading file: 5.txt
+[2026-04-03T23:44:12.945446500] Information Found by indexed value internal: unique_username
+[2026-04-03T23:44:12.946458400] Information Updating entity: 5
+[2026-04-03T23:44:12.947446600] Information Finding ID: 2
+[2026-04-03T23:44:12.947446600] Information Reading file: 2.txt
+[2026-04-03T23:44:12.947446600] Information Entities found by index: User{id=2, username='jane_smith', firstName='Jane', lastName='Smith', country='Canada', age=28}
+[2026-04-03T23:44:12.947446600] Information Finding ID: 5
+[2026-04-03T23:44:12.948446800] Information Reading file: 5.txt
+[2026-04-03T23:44:12.948446800] Information Entities found by index: User{id=5, username='charlie_davis', firstName='Charlie', lastName='Davis', country='Czech Republic', age=28}
+[2026-04-03T23:44:12.948446800] Information Reading file: 1.txt
+[2026-04-03T23:44:12.948446800] Information Finding all and return List
+[2026-04-03T23:44:12.948446800] Information Reading file: 2.txt
+[2026-04-03T23:44:12.948446800] Information Finding all and return List
+[2026-04-03T23:44:12.949446600] Information Reading file: 3.txt
+[2026-04-03T23:44:12.949446600] Information Finding all and return List
+[2026-04-03T23:44:12.949446600] Information Reading file: 5.txt
+[2026-04-03T23:44:12.949446600] Information Finding all and return List
+[2026-04-03T23:44:12.949446600] Error Finding ends with error, empty list is returned
+[2026-04-03T23:45:58.826393200] Information Reading file: 1.txt
+[2026-04-03T23:45:58.826393200] Information Finding all and return List
+[2026-04-03T23:45:58.826393200] Information Reading file: 2.txt
+[2026-04-03T23:45:58.826393200] Information Finding all and return List
+[2026-04-03T23:45:58.826393200] Information Reading file: 3.txt
+[2026-04-03T23:45:58.827395500] Information Finding all and return List
+[2026-04-03T23:45:58.827395500] Information Reading file: 5.txt
+[2026-04-03T23:45:58.827395500] Information Finding all and return List
+[2026-04-03T23:45:58.827395500] Error Finding ends with error, empty list is returned
+[2026-04-03T23:45:58.828393] Information Finding ID: 1
+[2026-04-03T23:45:58.828393] Information Reading file: 1.txt
+[2026-04-03T23:45:58.829393300] Information Deleting entity with id: 1
+[2026-04-03T23:45:58.830395300] Information Finding ID: 2
+[2026-04-03T23:45:58.830395300] Information Reading file: 2.txt
+[2026-04-03T23:45:58.830395300] Information Deleting entity with id: 2
+[2026-04-03T23:45:58.831910600] Information Finding ID: 3
+[2026-04-03T23:45:58.831910600] Information Reading file: 3.txt
+[2026-04-03T23:45:58.831910600] Information Deleting entity with id: 3
+[2026-04-03T23:45:58.832908700] Information Finding ID: 5
+[2026-04-03T23:45:58.832908700] Information Reading file: 5.txt
+[2026-04-03T23:45:58.833907600] Information Deleting entity with id: 5
+[2026-04-03T23:45:58.833907600] Information Found by indexed value internal: unique_username
+[2026-04-03T23:45:58.834907800] Information Saving entity: 1
+[2026-04-03T23:45:58.835907700] Information Found by indexed value internal: unique_username
+[2026-04-03T23:45:58.835907700] Information Saving entity: 2
+[2026-04-03T23:45:58.836908600] Information Found by indexed value internal: unique_username
+[2026-04-03T23:45:58.837908100] Information Saving entity: 3
+[2026-04-03T23:45:58.837908100] Information Found by indexed value internal: unique_username
+[2026-04-03T23:45:58.838908700] Information Saving entity: 4
+[2026-04-03T23:45:58.839923300] Information Found by indexed value internal: unique_username
+[2026-04-03T23:45:58.839923300] Information Saving entity: 5
+[2026-04-03T23:45:58.841427800] Information Finding ID: 2
+[2026-04-03T23:45:58.841427800] Information Reading file: 2.txt
+[2026-04-03T23:45:58.841427800] Information Finding ID: 5
+[2026-04-03T23:45:58.841427800] Information Reading file: 5.txt
+[2026-04-03T23:45:58.845432500] Information Entities found by index: User{id=2, username='jane_smith', firstName='Jane', lastName='Smith', country='Canada', age=28} ; User{id=5, username='charlie_davis', firstName='Charlie', lastName='Davis', country='Canada', age=28}
+[2026-04-03T23:45:58.846439500] Information Finding ID: 4
+[2026-04-03T23:45:58.846439500] Information Reading file: 4.txt
+[2026-04-03T23:45:58.846439500] Information Deleting entity with id: 4
+[2026-04-03T23:45:58.848433200] Information Finding ID: 5
+[2026-04-03T23:45:58.848433200] Information Reading file: 5.txt
+[2026-04-03T23:45:58.848433200] Information Found by indexed value internal: unique_username
+[2026-04-03T23:45:58.848433200] Information Updating entity: 5
+[2026-04-03T23:45:58.849441600] Information Finding ID: 2
+[2026-04-03T23:45:58.850432300] Information Reading file: 2.txt
+[2026-04-03T23:45:58.850432300] Information Entities found by index: User{id=2, username='jane_smith', firstName='Jane', lastName='Smith', country='Canada', age=28}
+[2026-04-03T23:45:58.850432300] Information Finding ID: 5
+[2026-04-03T23:45:58.850432300] Information Reading file: 5.txt
+[2026-04-03T23:45:58.850432300] Information Entities found by index: User{id=5, username='charlie_davis', firstName='Charlie', lastName='Davis', country='Czech Republic', age=28}
+[2026-04-03T23:45:58.851432400] Information Reading file: 1.txt
+[2026-04-03T23:45:58.851432400] Information Finding all and return List
+[2026-04-03T23:45:58.851432400] Information Reading file: 2.txt
+[2026-04-03T23:45:58.851432400] Information Finding all and return List
+[2026-04-03T23:45:58.851432400] Information Reading file: 3.txt
+[2026-04-03T23:45:58.851432400] Information Finding all and return List
+[2026-04-03T23:45:58.851432400] Information Reading file: 5.txt
+[2026-04-03T23:45:58.851432400] Information Finding all and return List
+[2026-04-03T23:45:58.851432400] Error Finding ends with error, empty list is returned
+[2026-04-03T23:55:56.625990900] Information Reading file: 1.txt
+[2026-04-03T23:55:56.625990900] Information Finding all and return List
+[2026-04-03T23:55:56.625990900] Information Reading file: 2.txt
+[2026-04-03T23:55:56.625990900] Information Finding all and return List
+[2026-04-03T23:55:56.626983400] Information Reading file: 3.txt
+[2026-04-03T23:55:56.626983400] Information Finding all and return List
+[2026-04-03T23:55:56.626983400] Information Reading file: 5.txt
+[2026-04-03T23:55:56.626983400] Information Finding all and return List
+[2026-04-03T23:55:56.626983400] Error Finding ends with error, empty list is returned
+[2026-04-03T23:55:56.627990] Information Finding ID: 1
+[2026-04-03T23:55:56.627990] Information Reading file: 1.txt
+[2026-04-03T23:55:56.629020800] Information Deleting entity with id: 1
+[2026-04-03T23:55:56.629983800] Information Finding ID: 2
+[2026-04-03T23:55:56.629983800] Information Reading file: 2.txt
+[2026-04-03T23:55:56.629983800] Information Deleting entity with id: 2
+[2026-04-03T23:55:56.629983800] Information Finding ID: 3
+[2026-04-03T23:55:56.629983800] Information Reading file: 3.txt
+[2026-04-03T23:55:56.631607300] Information Deleting entity with id: 3
+[2026-04-03T23:55:56.631607300] Information Finding ID: 5
+[2026-04-03T23:55:56.631607300] Information Reading file: 5.txt
+[2026-04-03T23:55:56.632795100] Information Deleting entity with id: 5
+[2026-04-03T23:55:56.632795100] Information Found by indexed value internal: unique_username
+[2026-04-03T23:55:56.633758400] Information Saving entity: 1
+[2026-04-03T23:55:56.634733500] Information Found by indexed value internal: unique_username
+[2026-04-03T23:55:56.634733500] Information Saving entity: 2
+[2026-04-03T23:55:56.635738700] Information Found by indexed value internal: unique_username
+[2026-04-03T23:55:56.635738700] Information Saving entity: 3
+[2026-04-03T23:55:56.636738200] Information Found by indexed value internal: unique_username
+[2026-04-03T23:55:56.637740200] Information Saving entity: 4
+[2026-04-03T23:55:56.638728500] Information Found by indexed value internal: unique_username
+[2026-04-03T23:55:56.638728500] Information Saving entity: 5
+[2026-04-03T23:55:56.639755] Information Finding ID: 2
+[2026-04-03T23:55:56.639755] Information Reading file: 2.txt
+[2026-04-03T23:55:56.639755] Information Finding ID: 5
+[2026-04-03T23:55:56.639755] Information Reading file: 5.txt
+[2026-04-03T23:55:56.644488600] Information Entities found by index: User{id=2, username='jane_smith', firstName='Jane', lastName='Smith', country='Canada', age=28} ; User{id=5, username='charlie_davis', firstName='Charlie', lastName='Davis', country='Canada', age=28}
+[2026-04-03T23:55:56.645485400] Information Finding ID: 4
+[2026-04-03T23:55:56.645485400] Information Reading file: 4.txt
+[2026-04-03T23:55:56.645485400] Information Deleting entity with id: 4
+[2026-04-03T23:55:56.646497] Information Finding ID: 5
+[2026-04-03T23:55:56.647552500] Information Reading file: 5.txt
+[2026-04-03T23:55:56.647552500] Information Found by indexed value internal: unique_username
+[2026-04-03T23:55:56.647552500] Information Updating entity: 5
+[2026-04-03T23:55:56.648541200] Information Finding ID: 2
+[2026-04-03T23:55:56.648541200] Information Reading file: 2.txt
+[2026-04-03T23:55:56.648541200] Information Entities found by index: User{id=2, username='jane_smith', firstName='Jane', lastName='Smith', country='Canada', age=28}
+[2026-04-03T23:55:56.649491200] Information Finding ID: 5
+[2026-04-03T23:55:56.649491200] Information Reading file: 5.txt
+[2026-04-03T23:55:56.649491200] Information Entities found by index: User{id=5, username='charlie_davis', firstName='Charlie', lastName='Davis', country='Czech Republic', age=28}
+[2026-04-03T23:55:56.649491200] Information Reading file: 1.txt
+[2026-04-03T23:55:56.649491200] Information Finding all and return List
+[2026-04-03T23:55:56.649491200] Information Reading file: 2.txt
+[2026-04-03T23:55:56.650457600] Information Finding all and return List
+[2026-04-03T23:55:56.650457600] Information Reading file: 3.txt
+[2026-04-03T23:55:56.650457600] Information Finding all and return List
+[2026-04-03T23:55:56.650457600] Information Reading file: 5.txt
+[2026-04-03T23:55:56.650457600] Information Finding all and return List
+[2026-04-03T23:55:56.650457600] Error Finding ends with error, empty list is returned
